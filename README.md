@@ -75,7 +75,12 @@
     <div>
       <h2>Galaxy Trading Cards</h2>
       <p>Multi-page react app using React Bootstrap, HashRouter, and an API by NASA displaying images, videos and descriptive content. Created custom Javascript algorithm to make a selection randomly from returned array with 18 pages and 1,774 objects that users can save to separate page.</p>
-      <a href="https://rneyrinck.github.io/Project-2/" target="_blank">
+      <div>
+       <img src="https://user-images.githubusercontent.com/76080458/164315033-c51aae73-27d6-4f2d-bd5f-dad6cca5bcf0.jpg" height="200"/>
+      <img src="https://user-images.githubusercontent.com/76080458/164315479-7aee022b-6dfc-4759-a987-665e99e84d2c.jpg" height="200"/>
+      <img src="https://user-images.githubusercontent.com/76080458/164315482-d7c8794f-3757-46d3-bdc0-d9c140437f3e.jpg" height="200"/>
+      </div>
+        <a href="https://rneyrinck.github.io/Project-2/" target="_blank">
     Generate some Galaxy Cards!
   </a>
       <br>
@@ -99,6 +104,7 @@
   <br>
 <a href="https://github.com/rneyrinck/CookBookerAPI">Backend Repo</a>
 </div>
- 
+
+
    
    
