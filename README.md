@@ -65,16 +65,39 @@
   <img src="https://rneyrinck.github.io/Portfolio-2022/static/media/Tutorial5.6eeede228b7aae358e8d.jpg" height="200" />
     <div>
        <a href="https://rneyrinck.github.io/Portfolio-2022/#scanberry" target="_blank">
-    <img src="https://img.shields.io/badge/Take a look-blue?style=for-the-badge" alt="LinkedIn Badge"/>
+    More Screenshots
   </a>
+      <a href="">Repo</a>
 </div>
     <div>
       <h2>Galaxy Trading Cards</h2>
-      <p></p>
-      <div>
-      
-      </div>
+      <p>Multi-page react app using React Bootstrap, HashRouter, and an API by NASA displaying images, videos and descriptive content. Created custom Javascript algorithm to make a selection randomly from returned array with 18 pages and 1,774 objects that users can save to separate page.</p>
+      <a href="https://rneyrinck.github.io/Project-2/" target="_blank">
+    Generate some Galaxy Cards!
+  </a>
+      <a href="">Repo</a>
 </div>
+    
+    <div>
+      <h2>Hey, Neighbor</h2>
+      <p>MERN stack application built collaboratively in 4-day sprint. Rotated project management role, resolved merge conflicts and utilized GitHubs kanban to set and manage assignments. App allows users to create marketplace listings and communicate with comments.</p>
+      <a href="">See whats for rent!</a>
+      <a href="">Repo</a>
+    </div>
+    
+    <div>
+      <h2></h2>
+      <p></p>
+      <a href=""></a>
+      <a href=""></a>
+    </div>
+    
+    <div>
+      <h2></h2>
+      <p></p>
+      <a href=""></a>
+      <a href=""></a>
+    </div>
 <!--
 **rneyrinck/rneyrinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
