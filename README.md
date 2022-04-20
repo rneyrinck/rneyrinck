@@ -90,6 +90,11 @@
 <div>
 <h2>Hey, Neighbor</h2>
 <p>MERN stack application built collaboratively in 4-day sprint. Rotated project management role, resolved merge conflicts and utilized GitHubs kanban to set and manage assignments. App allows users to create marketplace listings and communicate with comments.</p>
+  <div>
+       <img src="https://user-images.githubusercontent.com/76080458/164316128-e2db6f3c-d4a2-4009-bbcd-5288e7927e3d.jpg" height="200"/>
+      <img src="https://user-images.githubusercontent.com/76080458/164316135-2fd8559b-86fb-48c1-aa0e-b336e5319dfa.jpg" height="200"/>
+      <img src="https://user-images.githubusercontent.com/76080458/164316140-4b233b0f-cf22-490a-b138-7138b7461b81.jpg" height="200"/>
+      </div>
 <a href="https://sabr-ga.github.io/hey-neighbor-client/#/">See whats for rent!</a>
   <br>
 <a href="https://github.com/SABR-GA">Repo</a>
@@ -98,13 +103,15 @@
 <div>
 <h2>Cook Booker</h2>
 <p>Full stack application built in 2-day sprint with a backend composed of MongoDB, express, and deployed on Heroku. On the frontend users can add their favorite cookbooks and authors to a public forum on frontend React.Js platform styled using minimal components from React Bootstrap.</p>
+   <div>
+       <img src="https://user-images.githubusercontent.com/76080458/164316621-10f854a1-0155-4efa-b947-d7a5ec976dd7.jpg" height="200"/>
+      <img src="https://user-images.githubusercontent.com/76080458/164316624-e936af80-b6a9-452f-9b86-11328e669028.jpg" height="200"/>
+      <img src="https://user-images.githubusercontent.com/76080458/164316628-ab14640a-cca3-47b9-bd75-e7e0f242b1d9.jpg" height="200"/>
+     <img src="https://user-images.githubusercontent.com/76080458/164316632-5776ebb6-de2a-4502-8d40-55fc5b978373.jpg" height="200"/>
+      </div>
 <a href="https://pages.git.generalassemb.ly/rob-neyrinck/Cookbook-client/#/cookbooks">Save some books!</a>
   <br>
  <a href="https://github.com/rneyrinck/CookbookerClient">Frontend Repo</a>
   <br>
 <a href="https://github.com/rneyrinck/CookBookerAPI">Backend Repo</a>
 </div>
-
-
-   
-   
