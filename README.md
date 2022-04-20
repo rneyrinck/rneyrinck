@@ -67,7 +67,9 @@
        <a href="https://rneyrinck.github.io/Portfolio-2022/#scanberry" target="_blank">
     More Screenshots
   </a>
-      <a href="">Repo</a>
+      <a href="https://github.com/rneyrinck/Scanberry">
+        Repo
+      </a>
 </div>
     <div>
       <h2>Galaxy Trading Cards</h2>
@@ -75,29 +77,25 @@
       <a href="https://rneyrinck.github.io/Project-2/" target="_blank">
     Generate some Galaxy Cards!
   </a>
-      <a href="">Repo</a>
+      <a href="https://github.com/rneyrinck/Project-2">Repo</a>
 </div>
     
     <div>
       <h2>Hey, Neighbor</h2>
       <p>MERN stack application built collaboratively in 4-day sprint. Rotated project management role, resolved merge conflicts and utilized GitHubs kanban to set and manage assignments. App allows users to create marketplace listings and communicate with comments.</p>
-      <a href="">See whats for rent!</a>
-      <a href="">Repo</a>
+      <a href="https://sabr-ga.github.io/hey-neighbor-client/#/">See whats for rent!</a>
+      <a href="https://github.com/SABR-GA">Repo</a>
     </div>
     
     <div>
-      <h2></h2>
-      <p></p>
-      <a href=""></a>
-      <a href=""></a>
+      <h2>Cook Booker</h2>
+      <p>Full stack application built in 2-day sprint with a backend composed of MongoDB, express, and deployed on Heroku. On the frontend users can add their favorite cookbooks and authors to a public forum on frontend React.Js platform styled using minimal components from React Bootstrap.</p>
+      <a href="https://pages.git.generalassemb.ly/rob-neyrinck/Cookbook-client/#/cookbooks">Save some books!</a>
+      <a href="https://github.com/rneyrinck/CookbookerClient">Frontend Repo</a>
+      <a href="https://github.com/rneyrinck/CookBookerAPI">Backend Repo</a>
     </div>
     
-    <div>
-      <h2></h2>
-      <p></p>
-      <a href=""></a>
-      <a href=""></a>
-    </div>
+   
 <!--
 **rneyrinck/rneyrinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
