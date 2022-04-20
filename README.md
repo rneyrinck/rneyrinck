@@ -54,11 +54,26 @@
 ### :writing_hand: Recent Projects :
 <div>
   <h2>Scanberry</h2>
-  <a href="https://rneyrinck.github.io/Portfolio-2022/#scanberry" target="_blank">
+  <p>React Native mobile application with barcode scanner and a third-party API, Barcode Lookup, to scan items and manage in-person shopping cart. App allows users to change item quanities, set budgets, and view cart to budget ratio in live visualization. Built in 5 days after collaborative handoff with UX Designer.</p>
   
-  
+ 
+  <div>
   <img src="https://rneyrinck.github.io/Portfolio-2022/static/media/Tutorial1.6fd1506a8680f137073d.jpg" height="200" />
+   <img src="https://rneyrinck.github.io/Portfolio-2022/static/media/Tutorial2.a6f6b865ec2721992248.jpg" height="200" />
+  <img src="https://rneyrinck.github.io/Portfolio-2022/static/media/Tutorial3.191a195d031bbcd9c755.jpg" height="200" />
+  <img src="https://rneyrinck.github.io/Portfolio-2022/static/media/Tutorial4.c6914bcb0c866a0ba39a.jpg" height="200" />
+  <img src="https://rneyrinck.github.io/Portfolio-2022/static/media/Tutorial5.6eeede228b7aae358e8d.jpg" height="200" />
+    <div>
+       <a href="https://rneyrinck.github.io/Portfolio-2022/#scanberry" target="_blank">
+    <img src="https://img.shields.io/badge/Take a look-blue?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+</div>
+    <div>
+      <h2>Galaxy Trading Cards</h2>
+      <p></p>
+      <div>
+      
+      </div>
 </div>
 <!--
 **rneyrinck/rneyrinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
