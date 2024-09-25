@@ -118,7 +118,3 @@ Co-Founder of Frontpage, Robert Neyrinck is a creative force driven by a passion
 
 Feel free to [reach out](mailto:robert.a.neyrinck@gmail.com) for collaboration or to check out my [GitHub](https://github.com/rneyrinck) for more projects and contributions!
 
- <a href="https://github.com/rneyrinck/CookbookerClient">Frontend Repo</a>
-  <br>
-<a href="https://github.com/rneyrinck/CookBookerAPI">Backend Repo</a>
-</div>
