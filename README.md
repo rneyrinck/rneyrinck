@@ -8,7 +8,7 @@ Co-Founder of Frontpage, Robert Neyrinck is a creative force driven by a passion
 - **Email:** robert.a.neyrinck@gmail.com
 - **GitHub:** [github.com/rneyrinck](https://github.com/rneyrinck)
 - **LinkedIn:** [linkedin.com/robert-neyrinck](https://www.linkedin.com/in/robert-neyrinck/)
-- **Portfolio:** [robertneyrinck.com](https://rneyrinck.github.io/Portfolio-2022/)
+- **Portfolio:** [robertneyrinck.com](https://www.notion.so/The-Neyrinck-Project-Repo-14029041a1ce80e9be4fe129903c0032)
 - **Phone:** (872) 333-7804
 
 ---
@@ -33,12 +33,18 @@ Co-Founder of Frontpage, Robert Neyrinck is a creative force driven by a passion
 
 ## 💼 Experience
 
-### Lead Full Stack Developer, SapphireStudios | Chicago, IL (Remote) | 7/2024 - Current
-- Led development teams, overseeing code reviews, deployment pipelines, and ensuring frontend and backend code quality.
-- Managed database systems, including design, optimization, and maintenance, to ensure data integrity and performance.
-- Administered servers and environments for reliable and efficient application operations.
-- Implemented agile methodologies to streamline project workflows and communication.
-- Collaborated with executive leadership to align projects with organizational goals.
+### CTO/Co-Foudner, Frontpage.bio | Chicago, IL (Remote) | 9/2024 - Current
+- Delivered MVP in 2 months using Django, PostgreSQL, and Tailwind CSS.
+- Enhanced workflows with AI-tools, reducing development time by 20%.
+- Implemented user-testing, increasing user satisfaction by 30%.
+- Built investor relations for scaling and AI feature integration.
+
+### Lead Full Stack Developer, SapphireStudios | Chicago, IL (Remote) | 7/2024 - 9/2024
+- Directed development eorts for 4+ apps, optimizing deployments and improving system reliability.
+- Built an AI-Copilot dashboard that increased scriptwriter productivity by 30%.
+- Automated workflows to boost operational efficiency by 40% and reduce redundant coding by 40%.
+- Enhanced collaboration through standardized communication and streamlined issue resolution by 25%.
+- Trained and deployed a proprietary LLM for automated content generation
 
 ### Full Stack Developer, SapphireStudios | Chicago, IL (Remote) | 11/2022 - 6/2024
 - Developed leadership and technical skills through intensive training with the lead developer.
