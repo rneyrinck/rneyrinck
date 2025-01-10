@@ -33,7 +33,7 @@ Co-Founder of Frontpage, Robert Neyrinck is a creative force driven by a passion
 
 ## 💼 Experience
 
-### CTO/Co-Foudner, Frontpage.bio | Chicago, IL (Remote) | 9/2024 - Current
+### CTO/Co-Founder, Frontpage.bio | Chicago, IL (Remote) | 9/2024 - Current
 - Delivered MVP in 2 months using Django, PostgreSQL, and Tailwind CSS.
 - Enhanced workflows with AI-tools, reducing development time by 20%.
 - Implemented user-testing, increasing user satisfaction by 30%.
