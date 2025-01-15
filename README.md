@@ -8,7 +8,8 @@ Co-Founder of Frontpage, Robert Neyrinck is a creative force driven by a passion
 - **Email:** robert.a.neyrinck@gmail.com
 - **GitHub:** [github.com/rneyrinck](https://github.com/rneyrinck)
 - **LinkedIn:** [linkedin.com/robert-neyrinck](https://www.linkedin.com/in/robert-neyrinck/)
-- **Portfolio:** [robertneyrinck.com](https://www.notion.so/The-Neyrinck-Project-Repo-14029041a1ce80e9be4fe129903c0032)
+- **Portfolio:** [robertneyrinck.com](www.robertneyrinck.com)
+- **Idea Repo:** [Neyrinck Project Repo](https://www.notion.so/The-Neyrinck-Project-Repo-14029041a1ce80e9be4fe129903c0032)
 - **Phone:** (872) 333-7804
 
 ---
